@@ -1,0 +1,7 @@
+<meta>
+     <info author="1shingo1" type="gamemode" name="shingo" description="My Mta San Andreas" />
+     <script src="SpawnPlayer.lua" type="server"/>
+	<script src="CreateAndDestroyPlayersVehicle.lua" type="server"/>
+	<script src="client/VehicleControl.lua" type="client"/>
+	
+</meta>
